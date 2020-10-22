@@ -1,0 +1,19 @@
+{
+	"name": "birddog-p200",
+	"version": "1.0.0",
+	"api_version": "1.0.0",
+	"keywords": [
+		"Protocol",
+		"Camera"
+	],
+	"manufacturer": "Birddog",
+	"product": "P200",
+	"shortname": "P200",
+	"description": "This module controls Birddog P200 cameras over IP protocol",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Benni M. <info@benni-m.de>",
+	"license": "MIT"
+}
